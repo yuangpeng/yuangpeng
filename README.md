@@ -4,7 +4,7 @@
 - Resume: 
   - https://ianpundar.github.io/about
   - https://ianpundar.github.io/cv.pdf
-- Mail 📧: mailto:yuangpeng.cn@gmail.com
+- Mail 📧: yuangpeng.cn@gmail.com
 - Keywords: Computer Vision, Domain Adaptation, Deep Reinforcement Learning
 
 <!--
