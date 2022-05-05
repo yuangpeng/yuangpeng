@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Blog: https://ianpundar.github.io
+- Resume: 
+  - https://ianpundar.github.io/about
+  - https://ianpundar.github.io/cv.pdf
+- Mail 📧: mailto:yuangpeng.cn@gmail.com
+- Keywords: Computer Vision, Domain Adaptation, Deep Reinforcement Learning
+
 <!--
 **ianpundar/ianpundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
