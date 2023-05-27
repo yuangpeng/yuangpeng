@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - Homepage: https://notion.yuangpeng.cn
-- Blog: https://www.yuangpeng.cn
+- Blog: https://www.yuangpeng.com
 - Resume:
-  - https://www.yuangpeng.cn/about
-  - https://www.yuangpeng.cn/cv.pdf
+  - https://www.yuangpeng.com/about
+  - https://www.yuangpeng.com/cv.pdf
 - OneDrive Index: https://onedrive.yuangpeng.cn
 - Mail 📧: yuangpeng.cn@gmail.com
-- Keywords: Computer Vision, Domain Adaptation, Deep Reinforcement Learning
+- Keywords: Generative Model, Vision Language
 
 <!--
 **ianpundar/ianpundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
