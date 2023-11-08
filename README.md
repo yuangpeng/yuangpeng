@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-- Homepage: https://notion.yuangpeng.cn
-- Blog: https://www.yuangpeng.com
-- Resume:
-  - https://www.yuangpeng.com/about
-  - https://www.yuangpeng.com/cv.pdf
-- OneDrive Index: https://onedrive.yuangpeng.cn
-- Mail 📧: yuangpeng.cn@gmail.com
-- Keywords: Generative Model, Vision Language
+- 🏠 Homepage: https://yuangpeng.com
+- ☁️ OneDrive Index: https://onedrive.yuangpeng.cn
+- 📧 Mail: yuangpeng.cn@gmail.com
+- Keywords: Generative Model, Multimodal Learning
 
 <!--
 **ianpundar/ianpundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
