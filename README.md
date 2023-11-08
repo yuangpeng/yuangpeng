@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏠 Homepage: https://yuangpeng.com
-- ☁️ OneDrive Index: https://onedrive.yuangpeng.cn
+- ☁️ Space: https://onedrive.yuangpeng.cn
 - 📧 Mail: yuangpeng.cn@gmail.com
 - Keywords: Generative Model, Multimodal Learning
 
