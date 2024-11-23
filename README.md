@@ -6,7 +6,7 @@
 - 🌅 Keywords: Generative Model, Multimodal Learning
 
 <!--
-**ianpundar/ianpundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuangpeng/yuangpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
