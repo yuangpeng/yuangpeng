@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         15 hrs 3 mins   ██████████████████████░░░   88.43 %
-OpenEdge ABL   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Text           42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-TeX            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Git Config     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python         16 hrs 41 mins  ████████████████████▒░░░░   81.66 %
+Markdown       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+OpenEdge ABL   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Text           42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+TOML           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
