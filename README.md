@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 12 mins    ████████████▓░░░░░░░░░░░░   50.14 %
-JSON       1 hr 4 mins     ███████████░░░░░░░░░░░░░░   44.43 %
-Bash       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python     2 hrs 17 mins   █████████████████░░░░░░░░   67.63 %
+JSON       58 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
+Bash       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
