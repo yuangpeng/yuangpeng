@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     38 mins         ██████████████░░░░░░░░░░░   55.56 %
-Python   30 mins         ███████████░░░░░░░░░░░░░░   44.44 %
+Python   21 mins         ███████████████▓░░░░░░░░░   62.73 %
+JSON     12 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
 ```
 
 <!--END_SECTION:waka-->
