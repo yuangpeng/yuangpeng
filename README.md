@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash                 1 hr            ██████████████░░░░░░░░░░░   55.84 %
+JSON                 34 mins         ████████░░░░░░░░░░░░░░░░░   31.79 %
+Other                7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Vim Script           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
