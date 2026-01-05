@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        31 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 %
-BibTeX     29 mins         ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-Makefile   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Other      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Bash       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Other          7 mins          ██████████████████████▓░░   91.00 %
+OpenEdge ABL   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
