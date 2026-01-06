@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other          7 mins          ██████████████████████▓░░   91.00 %
-OpenEdge ABL   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Python     4 hrs 47 mins   █████████████████████░░░░   83.46 %
+Bash       34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+JSON       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Other      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
