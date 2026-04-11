@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       22 hrs 20 mins        █████████████████████░░░░   84.33 %
-JSON         2 hrs 32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Other        1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-TOML         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Bash         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python       24 hrs 14 mins        █████████████████████▒░░░   85.25 %
+JSON         2 hrs 29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Other        1 hr 19 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash         9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TOML         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
