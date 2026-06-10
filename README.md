@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       5 mins                ██████████████████░░░░░░░   72.64 %
-Markdown   1 min                 ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Python     0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
