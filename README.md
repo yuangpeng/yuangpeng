@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       18 hrs 3 mins         ██████████████████▓░░░░░░   74.85 %
-TOML         3 hrs 24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Other        1 hr 17 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Markdown     37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TypeScript   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python       12 hrs 36 mins        █████████████████▓░░░░░░░   70.60 %
+TOML         3 hrs 22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Markdown     38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Other        36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TypeScript   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
